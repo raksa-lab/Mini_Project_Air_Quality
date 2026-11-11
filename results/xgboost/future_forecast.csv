@@ -1,0 +1,25 @@
+Step_Hours,Forecast_Time,Predicted_PM25,Predicted_US_AQI,Predicted_Level,Model
++1h,2026-11-11 15:00:00,4.85,27,Good,XGBoost
++2h,2026-11-11 16:00:00,5.0,28,Good,XGBoost
++3h,2026-11-11 17:00:00,5.79,32,Good,XGBoost
++4h,2026-11-11 18:00:00,7.14,40,Good,XGBoost
++5h,2026-11-11 19:00:00,10.26,53,Moderate,XGBoost
++6h,2026-11-11 20:00:00,11.19,55,Moderate,XGBoost
++7h,2026-11-11 21:00:00,10.91,54,Moderate,XGBoost
++8h,2026-11-11 22:00:00,10.32,53,Moderate,XGBoost
++9h,2026-11-11 23:00:00,9.68,52,Moderate,XGBoost
++10h,2026-11-12 00:00:00,8.39,47,Good,XGBoost
++11h,2026-11-12 01:00:00,7.32,41,Good,XGBoost
++12h,2026-11-12 02:00:00,6.71,37,Good,XGBoost
++13h,2026-11-12 03:00:00,6.21,35,Good,XGBoost
++14h,2026-11-12 04:00:00,5.84,32,Good,XGBoost
++15h,2026-11-12 05:00:00,5.52,31,Good,XGBoost
++16h,2026-11-12 06:00:00,5.26,29,Good,XGBoost
++17h,2026-11-12 07:00:00,6.18,34,Good,XGBoost
++18h,2026-11-12 08:00:00,5.94,33,Good,XGBoost
++19h,2026-11-12 09:00:00,5.5,31,Good,XGBoost
++20h,2026-11-12 10:00:00,5.28,29,Good,XGBoost
++21h,2026-11-12 11:00:00,5.03,28,Good,XGBoost
++22h,2026-11-12 12:00:00,4.76,26,Good,XGBoost
++23h,2026-11-12 13:00:00,4.76,26,Good,XGBoost
++24h,2026-11-12 14:00:00,4.75,26,Good,XGBoost

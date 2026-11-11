@@ -1,0 +1,5 @@
+Model,Rank,Train_MAE,Val_MAE,Test_MAE,Test_MSE,Test_RMSE,Test_R2,Polluted_Recall,Polluted_Precision,Polluted_F1,MAE_Gain_vs_Baseline_%,Decision_Verdict
+Random Forest,#1,0.876,2.16,1.628,12.066,3.474,0.957,0.932,0.915,0.923,25.0,BEST ONE-HOUR MODEL (lowest Val/Test MAE; highest Polluted recall)
+XGBoost,#2,1.067,2.243,1.644,12.016,3.466,0.957,0.926,0.927,0.927,24.2,Runner-Up (2nd-lowest test MAE; highest Polluted precision)
+HistGradientBoosting,#3,1.296,2.359,1.673,12.594,3.549,0.955,0.916,0.924,0.92,22.9,3rd by test MAE (highest Polluted F1)
+Linear Regression,#4,1.652,2.669,1.886,13.587,3.686,0.952,0.924,0.895,0.91,13.1,4th Place (Simple Linear Baseline - Highest Error)

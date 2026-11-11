@@ -1,0 +1,25 @@
+Step_Hours,Forecast_Time,Predicted_PM25,Predicted_US_AQI,Predicted_Level,Model
++1h,2026-11-11 15:00:00,5.27,29,Good,Random Forest
++2h,2026-11-11 16:00:00,5.66,31,Good,Random Forest
++3h,2026-11-11 17:00:00,6.95,39,Good,Random Forest
++4h,2026-11-11 18:00:00,8.98,50,Good,Random Forest
++5h,2026-11-11 19:00:00,12.18,57,Moderate,Random Forest
++6h,2026-11-11 20:00:00,12.96,58,Moderate,Random Forest
++7h,2026-11-11 21:00:00,12.75,58,Moderate,Random Forest
++8h,2026-11-11 22:00:00,12.11,57,Moderate,Random Forest
++9h,2026-11-11 23:00:00,11.73,56,Moderate,Random Forest
++10h,2026-11-12 00:00:00,11.12,55,Moderate,Random Forest
++11h,2026-11-12 01:00:00,10.56,54,Moderate,Random Forest
++12h,2026-11-12 02:00:00,10.33,53,Moderate,Random Forest
++13h,2026-11-12 03:00:00,10.01,53,Moderate,Random Forest
++14h,2026-11-12 04:00:00,9.69,52,Moderate,Random Forest
++15h,2026-11-12 05:00:00,9.58,52,Moderate,Random Forest
++16h,2026-11-12 06:00:00,9.42,52,Moderate,Random Forest
++17h,2026-11-12 07:00:00,10.2,53,Moderate,Random Forest
++18h,2026-11-12 08:00:00,10.43,53,Moderate,Random Forest
++19h,2026-11-12 09:00:00,10.43,53,Moderate,Random Forest
++20h,2026-11-12 10:00:00,10.3,53,Moderate,Random Forest
++21h,2026-11-12 11:00:00,10.13,53,Moderate,Random Forest
++22h,2026-11-12 12:00:00,9.69,52,Moderate,Random Forest
++23h,2026-11-12 13:00:00,9.51,52,Moderate,Random Forest
++24h,2026-11-12 14:00:00,9.38,52,Moderate,Random Forest

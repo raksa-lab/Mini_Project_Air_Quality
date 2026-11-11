@@ -1,0 +1,6 @@
+Model,Train_MAE,Val_MAE,MAE,MSE,RMSE,R2,Polluted_Recall,Polluted_Precision,Polluted_F1,Pred_1h_PM25,Pred_1h_US_AQI,Next_24h_Mean_PM25,Next_24h_Mean_US_AQI,Next_24h_Max_PM25,Next_24h_Level
+Baseline (same as now),2.022,3.296,2.17,19.291,4.392,0.931,0.887,0.886,0.886,5.0,28,5.0,28,5.0,Good
+Linear Regression,1.652,2.669,1.886,13.587,3.686,0.952,0.924,0.895,0.91,5.39,30,6.61,37,11.72,Good
+Random Forest,0.876,2.16,1.628,12.066,3.474,0.957,0.932,0.915,0.923,5.27,29,9.97,53,12.96,Moderate
+HistGradientBoosting,1.296,2.359,1.673,12.594,3.549,0.955,0.916,0.924,0.92,4.99,28,8.51,47,12.85,Good
+XGBoost,1.067,2.243,1.644,12.016,3.466,0.957,0.926,0.927,0.927,4.85,27,6.77,38,11.19,Good
